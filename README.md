@@ -1,13 +1,13 @@
 # gatsby-remark-gfm-styled-notes
 
-```md
+```markdown
 > **Note**
 > you can write GitHub Flavored Markdown styled notes 
 ```
 
-```md
+```markdown
 > **Warning**
-> you can write GitHub Flavored Markdown styled nots 
+> you can write GitHub Flavored Markdown styled notes 
 ```
 
 ## How to use
