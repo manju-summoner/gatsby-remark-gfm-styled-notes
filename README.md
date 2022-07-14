@@ -37,5 +37,5 @@ plugins: [
 ],
 ```
 
-After activating this plugin, GFM styled notes will be converted from `<blockquote>` to `<div class="md-note">` or `<div class="md-warning">`.
+After activating this plugin, GFM styled notes will be converted from `<blockquote>` to `<div class="md-note">` or `<div class="md-warning">`.  
 CSS is **NOT** included in this plugin, you need to apply styles for .md-note .md-warning by yourself.
